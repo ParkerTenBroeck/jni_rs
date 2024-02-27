@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/jmacros",
+    "crates/jni_rs",
+    "test/rust"
+]
